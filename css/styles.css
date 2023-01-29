@@ -229,7 +229,7 @@
 
 /* MEDIA SECTION */
 
-@media (max-width : 991.11px) {
+@media (max-width :1450px) {
     .phone-img {
         position: static;
         transform: rotate(0);
